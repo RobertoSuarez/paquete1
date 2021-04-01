@@ -4,6 +4,6 @@ import (
 	"fmt"
 )
 
-func main() {
+func NewPaquete() {
 	fmt.Println("Hola paquete 1")
 }
